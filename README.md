@@ -39,6 +39,10 @@ The code must be run from within the `Regularized_logisitc_regression` directory
 
 ## Quadratic Minimization Experiments
 
-The `Quadratic_minimization` directory contains easy to follow along Jupyter notebooks for the following experiments:
+The `Quadratic_minimization` directory contains easy-to-follow Jupyter notebooksfor the following experiments:
 
-1. 
+1. **Training Curves for High and Low Condition Numbers:** `Quadratic_Minimization_Exp.ipynb`
+2. **Training Loss vs. Condition Number:** `Error_vs_Condition_No_Exp.ipynb`
+3. **Training Loss vs. Problem Dimension:**`Error_vs_Dimension_Exp.ipynb`
+
+The output plots from these experiments are saved in the `Python_plots` directory.
